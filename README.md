@@ -1,2 +1,2 @@
 # CE209
-Theory of Languages and Automata
+Theory of Languages and Automata (TLA)
